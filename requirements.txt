@@ -1,0 +1,11 @@
+pynytimes
+requests
+pandas
+pyarrow
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+openpyxl
+beautifulsoup4
